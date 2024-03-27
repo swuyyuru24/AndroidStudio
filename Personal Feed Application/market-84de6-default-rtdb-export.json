@@ -1,0 +1,83 @@
+{
+  "Items": {
+    "-NWEGeZmzOzGAKo31wkX": {
+      "Images": {
+        "1684957207923": {
+          "id": "1684957207923",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/market-84de6.appspot.com/o/Items%2F1684957207923?alt=media&token=43ef95d0-e350-4129-98a4-302380e618a3"
+        }
+      },
+      "brand": "Apple",
+      "category": "Electronics & Appliances",
+      "condition": "New",
+      "description": "Version 13.0.0",
+      "id": "-NWEGeZmzOzGAKo31wkX",
+      "place": "Arundel Mills",
+      "price": "800",
+      "status": "OWN",
+      "timestamp": 1684957210981,
+      "title": "Iphone 13",
+      "uid": "zponAPzB6cbnVDy81H1nRaKTxZJ2"
+    },
+    "-NWExbJBiTYejowIKRz8": {
+      "Images": {
+        "1684968700743": {
+          "id": "1684968700743",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/market-84de6.appspot.com/o/Items%2F1684968700743?alt=media&token=85eb1c7c-2d6f-4cce-9188-f94d9c8111c0"
+        }
+      },
+      "brand": "Victoria Secret",
+      "category": "Beauty & Grooming",
+      "condition": "New",
+      "description": "Floral & Subtle",
+      "id": "-NWExbJBiTYejowIKRz8",
+      "place": "Arundel Mills",
+      "price": "10.00",
+      "status": "OWN",
+      "timestamp": 1684968731458,
+      "title": "Perfumes",
+      "uid": "zponAPzB6cbnVDy81H1nRaKTxZJ2"
+    },
+    "-NWF152ODK2ZiI8x5nJA": {
+      "Images": {
+        "1684969903650": {
+          "id": "1684969903650",
+          "imageUrl": "https://firebasestorage.googleapis.com/v0/b/market-84de6.appspot.com/o/Items%2F1684969903650?alt=media&token=8867c4cf-0a36-4389-91bf-8613a99eb524"
+        }
+      },
+      "brand": "Apple",
+      "category": "Electronics & Appliances",
+      "condition": "New",
+      "description": "256 GB Memory, 8GB Ram",
+      "id": "-NWF152ODK2ZiI8x5nJA",
+      "place": "Best Buy",
+      "price": "800",
+      "status": "OWN",
+      "timestamp": 1684969906038,
+      "title": "Macbook Air",
+      "uid": "zponAPzB6cbnVDy81H1nRaKTxZJ2"
+    }
+  },
+  "Users": {
+    "KGE4vMag0RZB2uI8JR23fgXBJOP2": {
+      "DOB": "",
+      "Email": "pragadisnanda28@gmail.com",
+      "Name": "TEST2",
+      "PhoneNumber": "",
+      "ProfileImage": "",
+      "Timestamp": 1684880421508,
+      "UId": "KGE4vMag0RZB2uI8JR23fgXBJOP2",
+      "Username": "PRAGA"
+    },
+    "zponAPzB6cbnVDy81H1nRaKTxZJ2": {
+      "DOB": "04/12/1999",
+      "Email": "samsterbizzle@gmail.com",
+      "Name": "Samyuktha",
+      "PhoneNumber": "9988997789",
+      "ProfileImage": "",
+      "Timestamp": 1684544035004,
+      "UId": "zponAPzB6cbnVDy81H1nRaKTxZJ2",
+      "Username": "swuyyur"
+    }
+  }
+}
